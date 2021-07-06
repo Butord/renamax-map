@@ -682,7 +682,7 @@ $(window).on('load', function() {
     addTitle();
 
     // Change Map attribution to include author's info + urls
-    changeAttribution();
+//     changeAttribution();
 
     // Append icons to categories in markers legend
     $('#points-legend label span').each(function(i) {
