@@ -1,4 +1,4 @@
-Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Location,Latitude,Longitude
+Group,Marker Icon,Marker Color,Icon Color,Custom Size,Назва,Image,Description,Адреса,Latitude,Longitude
 СТО,fa-wrench,,,40x40,Вантажне СТО Дворецька / TIR сервіс RENAMAX RIVNE,"media/dvoretska,png",Маршрут  <a href='https://g.page/r/CXbtKrPz_fz9EAE' target='_blank'>тут</a>. Телефон - <a href='tel:+380673611090'>+38 (067) 361 10 90</a>,"м. Рівне вул. Дворецька, 120А",50.607094,26.229484
 СТО,fa-wrench,,,40x40,Вантажне СТО Рівне 339 км / TIR service RENAMAX RIVNE,media/339.jpg,Маршрут  <a href='https://g.page/r/CR0-yyLcEGSJEAE' target='_blank'>тут</a>. Телефон - <a href='tel:+380980088010'>+38 (098) 008 80 10</a>,"м. Рівне 339 км траси Київ-Чоп, Кільцева дорога",50.583134,26.15422
 СТО,fa-wrench,,,40x40,Вантажне СТО Умань / ТІР сервіс RENAMAX UMAN,media/uman.png,Маршрут  <a href='https://g.page/r/CfvVb_8fDC-pEAE' target='_blank'>тут</a>. Телефон - <a href='tel:+380981101800'>+38 (098) 110 18 00</a>,"м. Умань вул. Залізняка, 2А",48.759215,30.202219
