@@ -29,7 +29,7 @@ Point Legend Icon,fa-map-pin,Insert a Font Awesome free and solid icon name (exa
 Table Controls,,"For help, see tutorial in HandsOnDataViz.org"
 Display Table,on,Display Table of all Points shown in current map 
 Table Height,40,Height of table (as percentage of map; 40 percent is default)
-Table Columns,"Name,Адреса",Columns from Points sheet to display in Table (or leave blank)
+Table Columns,"Name,Location",Columns from Points sheet to display in Table (or leave blank)
 Table Header Color,,"Background color of table header (default is black). If desired, insert a comma and specify table text color (default is black)."
 Polyline Map Controls,,"For help, see tutorial in HandsOnDataViz.org"
 Polyline Legend Title,Sample polylines:<br>Greenway routes,Show title at top of Polyline legend (or leave blank)
