@@ -1,7 +1,7 @@
 Setting,Customize,Hints
 Map Info,,"For help, see tutorial in HandsOnDataViz.org"
-Map Title,Партнери Renamax Group,Insert your map title. Always appears in browser tab
-Map Subtitle,Пошук найближчих сервісів,Add context (or leave blank)
+Map Title,Demo: Leaflet Maps with Google Sheets v. 1.2.0,Insert your map title. Always appears in browser tab
+Map Subtitle,Explore the East Coast Greenway,Add context (or leave blank)
 Display Title,topleft,"Select position to display map title, or off"
 Author Name,Add Your Name,"Appears in credits as ""View data by..."" (or leave blank)"
 Author Email or Website,,Insert your email or web address to appear as link in Author Name (or leave blank)
@@ -9,7 +9,7 @@ Author Code Repo,https://github.com/HandsOnDataViz/leaflet-maps-with-google-shee
 Author Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
 Google Analytics Tracking ID,,General format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
-Basemap Tiles,Stamen.Terrain,Select basemap background from drop-down menu
+Basemap Tiles,OpenTopoMap,Select basemap background from drop-down menu
 Cluster Markers,off,"Display tightly-packed groups of markers as numbers, until zoomed in to view details."
 Intro Popup Text,,Show intro text pop-up on startup (or leave blank)
 Initial Zoom,,Leave blank to auto-zoom to display all markers (or insert number between 1 [zoomed out] and 18 [zoomed in])
@@ -27,7 +27,7 @@ Point Legend Title,Sample points,Show title at top of Points legend (or leave bl
 Point Legend Position,topleft,Display the Points legend
 Point Legend Icon,fa-map-pin,Insert a Font Awesome free and solid icon name (example: fa-bus) or any Material Design icon name (example: rowing) or leave blank
 Table Controls,,"For help, see tutorial in HandsOnDataViz.org"
-Display Table,off,Display Table of all Points shown in current map 
+Display Table,on,Display Table of all Points shown in current map 
 Table Height,40,Height of table (as percentage of map; 40 percent is default)
 Table Columns,"Name,Location",Columns from Points sheet to display in Table (or leave blank)
 Table Header Color,,"Background color of table header (default is black). If desired, insert a comma and specify table text color (default is black)."
